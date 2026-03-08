@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AbhinandanSaikia<br>👀 I’m interested in Computer Science<br>🌱 I’m currently learning Python, C++, and JavaScript<br>📫 How to reach me: on LinkedIn<br>😄 Pronouns: Abhinandan<br>⚡ Fun fact: I am New in this field<br>
+👋 Hi, I’m @AbhinandanSaikia<br>👀 I’m interested in Computer Science<br>🌱 I’m currently learning Python, C++, and JavaScript<br>📫 How to reach me: on LinkedIn<br>😄 Pronouns: Abhinandan
 
 
 ## 🌐 Socials:
